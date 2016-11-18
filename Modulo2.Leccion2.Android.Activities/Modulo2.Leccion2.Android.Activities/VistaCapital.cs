@@ -12,7 +12,7 @@ using Android.Widget;
 
 namespace Modulo2.Leccion2.Android.Activities
 {
-    [Activity(Label = "VistaCapital")]
+    [Activity(Label = "Vista Capital")]
     public class VistaCapital : Activity
     {
         double defaultValue;
