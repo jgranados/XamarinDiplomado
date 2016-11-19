@@ -19,6 +19,7 @@ namespace Modulo2.Leccion4.Android.ListView
 
             controlesUI.ListView lvEmpleados = FindViewById<controlesUI.ListView>(Resource.Id.lvEmpleados);
 
+
             //usando adaptador del sistema
             //controlesUI.ArrayAdapter<Empleado> adaptador = new controlesUI.ArrayAdapter<Empleado>(this, recursosUI.Layout.SimpleListItem1, empleados);
             //lvEmpleados.Adapter = adaptador;
